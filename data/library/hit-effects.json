@@ -1,0 +1,19 @@
+{
+  "title": "Библиотека эффектов при попадании",
+  "bread": "Эффекты при попадании",
+  "items": [
+    {"id": "2.2", "name": "Эффект крови #2.2"},
+    {"id": "2.3", "name": "Эффект крови #2.3"},
+    {"id": "2.4", "name": "Эффект крови #2.4"},
+    {"id": "10.2", "name": "Эффект крови #10.2"},
+    {"id": "12.10", "name": "Эффект крови #12.10"},
+    {"id": "12.11", "name": "Эффект крови #12.11"},
+    {"id": "12.12", "name": "Эффект крови #12.12"},
+    {"id": "12.18", "name": "Эффект крови #12.18"}
+  ],
+  "imageBaseUrl": "https://raw.githubusercontent.com/ONEAS-hub/oneas-site-storage/refs/heads/main/img/hit-effects/",
+  "imagePattern": "{id}.png",
+  "imageReplace": {
+    ".": "-"
+  }
+}
