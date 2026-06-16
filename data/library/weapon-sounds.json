@@ -1,0 +1,25 @@
+{
+  "title": "Библиотека звуков оружия",
+  "bread": "Звуки оружия",
+  "contentType": "video",
+  "items": [
+    {"id": "1", "name": "GENRL #1", "videoId": "4tDEYLwAa9k"},
+    {"id": "2.1", "name": "GENRL #2.1", "videoId": "KHBuaDu-XWs"},
+    {"id": "2.2", "name": "GENRL #2.2", "videoId": "QRr9v80txYg"},
+    {"id": "2.3", "name": "GENRL #2.3", "videoId": "yE05ECcDi0g"},
+    {"id": "10.2", "name": "GENRL #10.2", "videoId": "a7_f4qJepPo"},
+    {"id": "12.2", "name": "GENRL #12.2", "videoId": "8KEmPA34oFY"},
+    {"id": "12.3", "name": "GENRL #12.3", "videoId": "hPbUZU_6pOs"},
+    {"id": "12.8", "name": "GENRL #12.8", "videoId": "iU0WboEy5gU"},
+    {"id": "12.9", "name": "GENRL #12.9", "videoId": "yxCpDC1_a34"},
+    {"id": "12.10", "name": "GENRL #12.10", "videoId": "obK4ZfJ9evc"},
+    {"id": "12.11", "name": "GENRL #12.11", "videoId": "P_my3LzYeaM"},
+    {"id": "12.12", "name": "GENRL #12.12", "videoId": "o2xP-FQ7Iqw"},
+    {"id": "12.13", "name": "GENRL #12.13", "videoId": "b7aDfvYOH-k"},
+    {"id": "14.1", "name": "GENRL #14.1", "videoId": "iYKSxkLlVpA"},
+    {"id": "14.2", "name": "GENRL #14.2", "videoId": "6sLiWu-jLJ8"},
+    {"id": "14.3", "name": "GENRL #14.3", "videoId": "d0GRvtoxIcs"},
+    {"id": "14.4", "name": "GENRL #14.4", "videoId": "CGvU1c1Fv1s"},
+    {"id": "14.5", "name": "GENRL #14.5", "videoId": "lx4f2NUUWRE"}
+  ]
+}
