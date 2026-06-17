@@ -1,13 +1,55 @@
 {
   "itemsSlider": [
+    {"id": 1, "src": "28-1.jpg", "title": "HUD и спидометр в обычном состояние"},
+    {"id": 2, "src": "28-2.jpg", "title": "HUD и оружие в обычном состояние"},
+    {"id": "i3", "src": "28-3.png", "title": "Shooter mode — ХП и броня по центру", "hideTitle": true},
+    {"id": "i4", "src": "28-4.png", "title": "Настройка ХП и брони по вертикали в Shooter mode", "hideTitle": true},
+    {"id": "i5", "src": "28-5.png", "title": "Цветовой акцент ХП и брони в Shooter mode", "hideTitle": true},
+    {"id": 6, "src": "28-6.jpg", "title": "HUD и спидометр в Shooter mode"},
+    {"id": 7, "src": "28-7.jpg", "title": "HUD и оружие в Shooter mode + Капт-табло"},
+    {"id": 8, "src": "28-8.jpg", "title": "Диалоговые окна"},
+    {"id": 9, "src": "28-9.jpg", "title": "Инвентарь"},
+    {"id": 10, "src": "28-10.jpg", "title": "Авторизация"},
+    {"id": 11, "src": "28-11.jpg", "title": "Информация о недвижимости"},
+    {"id": 12, "src": "28-12.jpg", "title": "Заправка"},
+    {"id": 13, "src": "28-13.jpg", "title": "Админспек"},
+    {"id": 14, "src": "28-14.jpg", "title": "Репорт у админа (зетка)"},
+    {"id": 15, "src": "28-15.jpg", "title": "Прицелы"},
+    {"id": 16, "src": "2-4.jpg", "title": "Эффекты крови"},
+    {"id": "g2", "src": "graphics-2.png", "title": "Warm Light [ENB]"},
+    {"id": "g3", "src": "graphics-3.png", "title": "Blue Shade [ENB]"},
+    {"id": "g4", "src": "graphics-4.png", "title": "Graphic Set [no ENB]"},
+    {"id": "g6", "src": "graphics-6.jpg", "title": "Timecyc+Colormod #1"},
+    {"id": "g7", "src": "graphics-7.jpg", "title": "Timecyc+Colormod #2"},
+    {"id": "g8", "src": "graphics-8.jpg", "title": "Timecyc+Colormod #3"}
   ],
   "itemsPricing": [
+    ["Кастомный <b>HUD</b>", 1, 1, "#slide-1"],
+    ["<b>[Shooter mode]</b> ХП и броня по центру", 1, 1, "#slide-i3"],
+    ["<b>[Shooter mode]</b> Цветовой акцент ХП и брони", 0, 1, "#slide-i4"],
+    ["<b>[Shooter mode]</b> Настройка по вертикали", 0, 1, "#slide-i4"],
+    ["<b>[Shooter mode]</b> ВКЛ/ВЫКЛ режима клавишей", 0, 1, "#jump-link-7"],
+    ["Измененная <b>авторизация</b>", 1, 1, "#slide-10"],
+    ["Измененные <b>диалоговые окна</b>", 0, 1, "#slide-8"],
+    ["Измененная <b>информация о недвижимости</b>", 1, 1, "#slide-11"],
+    ["Измененное <b>капт-табло</b>", 1, 1, "#slide-7"],
+    ["Измененные остальные <b>интерфейсы</b>", 0, 1, "#jump-link-2"],
+    ["<b>3</b> набора звуков оружия", 3, null, "/library?type=weapon-sounds&ids=lib2.1,lib2.2,lib2.3&sbID=28-1"],
+    ["<b>4</b> варианта эффектов при попадании", 3, null, "/library?type=hit-effects&ids=lib1,lib2.2,lib2.3,lib2.4&sbID=28-1"],
+    ["<b>6</b> вариантов прицелов", 3, null, "/library?type=crosshairs&ids=lib1,lib2.2,lib4.4,lib28.4,lib28.5,lib28.6&sbID=28-1"],
+    ["<b>Библиотека всех</b> звуков оружия", null, 1, "/library?type=weapon-sounds"],
+    ["<b>Библиотека всех</b> эффектов при попадании", null, 1, "/library?type=hit-effects"],
+    ["<b>Библиотека всех</b> прицелов", null, 1, "/library?type=crosshairs"],
+    ["(Подарок) <b>7</b> видов графики", 2, 2, "#info-graphics__component-oneas"],
+    ["(Подарок) Множество <b>плагинов</b>", 2, 2, "#info-plugins__component-oneas"]
   ],
   "descPricing": [
     "У вас есть возможность докупить комплектацию выше в любое время.",
     "После покупки вы получите все комплектации этой сборки."
   ],
   "infoDescPointsID": {
+    "infoPlugins": [1, 2, 3, 4, 5, 7, 9, 24, 10, 11, 12, 13, 14],
+    "infoGraphics": [27, 28, 29, 30]
   },
   "descriptionUrl": "description.html"
 }

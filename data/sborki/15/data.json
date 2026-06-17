@@ -1,13 +1,20 @@
 {
   "itemsSlider": [
+    {"id": 1, "src": "15-1.jpg", "title": "HUD и спидометр"},
+    {"id": 2, "src": "15-2.jpg", "title": "HUD и спидометр"},
+    {"id": 3, "src": "15-3.jpg", "title": "Прицел"}
   ],
   "itemsPricing": [
+    ["Кастомный <b>HUD</b>", 1, 1, "#slide-1"],
+    ["<b>1</b> набор звуков оружия", 1, null, "/library?type=weapon-sounds&ids=lib15&sbID=15-0"],
+    ["<b>Без</b> эффектов при попадании", 0, null, ""],
+    ["<b>1</b> вариант прицела", 1, null, "/library?type=crosshairs&ids=lib12.7&sbID=15-0"],
+    ["Множество <b>плагинов</b>", 1, 1, "#info-plugins__component-oneas"]
   ],
-  "descPricing": [
-    "У вас есть возможность докупить комплектацию выше в любое время.",
-    "После покупки вы получите все комплектации этой сборки."
-  ],
+  "descPricing": [],
   "infoDescPointsID": {
+    "infoPlugins": [2, 3, 22, 10, 6, 11, 12, 13, 14],
+    "infoGraphics": [33]
   },
   "descriptionUrl": "description.html"
 }

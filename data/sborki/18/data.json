@@ -1,13 +1,37 @@
 {
   "itemsSlider": [
+    {"id": 1, "src": "18-1.jpg", "title": "HUD и спидометр"},
+    {"id": 2, "src": "18-2.jpg", "title": "Диалоговые окна"},
+    {"id": 3, "src": "18-4.jpg", "title": "Второй цвет"},
+    {"id": 4, "src": "18-3.png", "title": "Авторизация"},
+    {"id": "g2", "src": "graphics-2.png", "title": "Warm Light [ENB]"},
+    {"id": "g3", "src": "graphics-3.png", "title": "Blue Shade [ENB]"},
+    {"id": "g4", "src": "graphics-4.png", "title": "Graphic Set [no ENB]"},
+    {"id": "g5", "src": "graphics-5.jpg", "title": "Radmir Old [ENB]"}
   ],
   "itemsPricing": [
+    ["Кастомный <b>HUD</b>", 1, 1, "#slide-1"],
+    ["Изменение <b>цвета</b> интерфейсов", 0, 1, "#jump-link-1"],
+    ["Измененные <b>диалоговые окна</b>", 0, 1, "#slide-2"],
+    ["Измененные остальные <b>интерфейсы</b>", 0, 1, "#jump-link-2"],
+    ["Измененная <b>авторизация</b>", 1, 1, "#slide-4"],
+    ["<b>1</b> набор звуков оружия", 3, null, "/library?type=weapon-sounds&ids=lib1&sbID=18-1"],
+    ["<b>Без</b> эффектов при попадании", 0, null, ""],
+    ["<b>1</b> вариант прицела", 3, null, "/library?type=crosshairs&ids=lib18&sbID=18-1"],
+    ["<b>Библиотека всех</b> звуков оружия", null, 1, "/library?type=weapon-sounds"],
+    ["<b>Библиотека всех</b> эффектов при попадании", null, 1, "/library?type=hit-effects"],
+    ["<b>Библиотека всех</b> прицелов", null, 1, "/library?type=crosshairs"],
+    ["(Подарок) <b>Отсутсвие</b> внешних повреждений авто", 2, 2, "#idp-id19"],
+    ["(Подарок) <b>5</b> видов графики", 2, 2, "#info-graphics__component-oneas"],
+    ["(Подарок) Множество <b>плагинов</b>", 2, 2, "#info-plugins__component-oneas"]
   ],
   "descPricing": [
     "У вас есть возможность докупить комплектацию выше в любое время.",
     "После покупки вы получите все комплектации этой сборки."
   ],
   "infoDescPointsID": {
+    "infoPlugins": [1, 2, 3, 4, 5, 7, 19, 9, 10, 11, 12, 13, 14, 15, 18],
+    "infoGraphics": [27, 28, 29, 32]
   },
   "descriptionUrl": "description.html"
 }

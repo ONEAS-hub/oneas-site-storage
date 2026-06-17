@@ -1,13 +1,19 @@
 {
   "itemsSlider": [
+    {"id": 1, "src": "8-1.jpg", "title": "HUD и спидометр"},
+    {"id": 2, "src": "8-2.jpg", "title": "Диалоговые окна"},
+    {"id": 3, "src": "8-3.jpg", "title": "Инвентарь"},
+    {"id": 4, "src": "8-4.jpg", "title": "Заправка"},
+    {"id": 5, "src": "8-5.jpg", "title": "Авторизация"}
   ],
   "itemsPricing": [
+    ["Кастомный <b>HUD</b>", 1, 1, "#slide-1"],
+    ["Измененные <b>интерфейсы</b>", 1, 1, "#jump-link-2"],
+    ["<b>Без</b> замены звуков оружия", 0, 0, ""],
+    ["<b>Без</b> эффектов при попадании", 0, null, ""],
+    ["<b>1</b> вариант прицела", 1, null, "/library?type=crosshairs&ids=lib2.2&sbID=8-0"]
   ],
-  "descPricing": [
-    "У вас есть возможность докупить комплектацию выше в любое время.",
-    "После покупки вы получите все комплектации этой сборки."
-  ],
-  "infoDescPointsID": {
-  },
+  "descPricing": [],
+  "infoDescPointsID": {},
   "descriptionUrl": "description.html"
 }

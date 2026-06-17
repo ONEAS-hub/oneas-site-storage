@@ -1,13 +1,45 @@
 {
   "itemsSlider": [
+    {"id": 1, "src": "6-1.jpg", "title": "HUD и спидометр в комплектации Basic"},
+    {"id": 2, "src": "6-2.jpg", "title": "HUD и спидометр в комплектации Maximum"},
+    {"id": 12, "src": "6-3.jpg", "title": "Логотип на выбор в комплектации Maximum"},
+    {"id": 3, "src": "6-5.png", "title": "Диалоговые окна"},
+    {"id": 4, "src": "6-11.1.jpg", "title": "Инвентарь"},
+    {"id": 5, "src": "6-13.jpg", "title": "Заправка"},
+    {"id": 6, "src": "6-12.png", "title": "Авторизации"},
+    {"id": 7, "src": "6-6.jpg", "title": "Остальные интерфейсы"},
+    {"id": 8, "src": "6-9.png", "title": "Остальные интерфейсы"},
+    {"id": 9, "src": "6-10.png", "title": "Остальные интерфейсы"},
+    {"id": 10, "src": "6-8.png", "title": "Остальные интерфейсы"},
+    {"id": 11, "src": "6-7.png", "title": "Остальные интерфейсы"},
+    {"id": "g2", "src": "graphics-2.png", "title": "Warm Light [ENB]"},
+    {"id": "g3", "src": "graphics-3.png", "title": "Blue Shade [ENB]"},
+    {"id": "g4", "src": "graphics-4.png", "title": "Graphic Set [no ENB]"}
   ],
   "itemsPricing": [
+    ["Простой кастомный <b>HUD</b>", 1, null, "#slide-1"],
+    ["Ностальгический кастомный <b>HUD</b>", null, 1, "#slide-2"],
+    ["Отображение <b>чисел</b> в худе", 0, 1, null],
+    ["<b>3</b> вида логотипа", 0, 1, "#slide-12"],
+    ["Измененные остальные <b>интерфейсы</b>", 0, 1, "#jump-link-2"],
+    ["<b>1</b> набор звуков оружия", 3, null, "/library?type=weapon-sounds&ids=lib1&sbID=6-1"],
+    ["<b>Без</b> эффектов при попадании", 0, null, ""],
+    ["<b>1</b> вариант прицела", 3, null, "/library?type=crosshairs&ids=lib2.2&sbID=6-1"],
+    ["<b>Библиотека всех</b> звуков оружия", null, 1, "/library?type=weapon-sounds"],
+    ["<b>Библиотека всех</b> эффектов при попадании", null, 1, "/library?type=hit-effects"],
+    ["<b>Библиотека всех</b> прицелов", null, 1, "/library?type=crosshairs"],
+    ["<b>2</b> набора скинов на оружие", 0, 1, ""],
+    ["(Подарок) Старый чат", 0, 2, "#idp-id21"],
+    ["(Подарок) <b>4</b> вида графики", 2, 2, "#info-graphics__component-oneas"],
+    ["(Подарок) Множество <b>плагинов</b>", 2, 2, "#info-plugins__component-oneas"]
   ],
   "descPricing": [
-    "У вас есть возможность докупить комплектацию выше в любое время.",
+    "У вас есть возможность докупить комплектацию выше в течение 24 часов.",
     "После покупки вы получите все комплектации этой сборки."
   ],
   "infoDescPointsID": {
+    "infoPlugins": [1, 2, 3, 4, 5, 7, 9, 10, 21, 11, 12, 13, 14],
+    "infoGraphics": [27, 28, 29]
   },
   "descriptionUrl": "description.html"
 }
