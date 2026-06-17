@@ -24,9 +24,9 @@
     ["Кастомный <b>HUD</b>", 1, null, null],
     ["Измененные остальные <b>интерфейсы</b>", 1, null, "#jump-link-2"],
     ["Style Editor", 1, null, "#jump-link-3"],
-    ["<b>Библиотека всех</b> звуков оружия", 1, null, "/library?type=weapon-sounds"],
-    ["<b>Библиотека всех</b> эффектов при попадании", 1, null, "/library?type=hit-effects"],
-    ["<b>Библиотека всех</b> прицелов", 1, null, "/library?type=crosshairs"],
+    ["<b>Библиотека всех</b> звуков оружия", 1, null, "/library/weapon-sounds"],
+    ["<b>Библиотека всех</b> эффектов при попадании", 1, null, "/library/hit-effects"],
+    ["<b>Библиотека всех</b> прицелов", 1, null, "/library/crosshairs"],
     ["(Подарок) Множество <b>плагинов</b>", 2, null, "#info-plugins__component-oneas"],
     ["(Подарок) Большой выбор графики продемонстрирован в скринах с худом", 2, null, null]
   ],

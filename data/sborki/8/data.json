@@ -11,7 +11,7 @@
     ["Измененные <b>интерфейсы</b>", 1, 1, "#jump-link-2"],
     ["<b>Без</b> замены звуков оружия", 0, 0, ""],
     ["<b>Без</b> эффектов при попадании", 0, null, ""],
-    ["<b>1</b> вариант прицела", 1, null, "/library?type=crosshairs&ids=lib2.2&sbID=8-0"]
+    ["<b>1</b> вариант прицела", 1, null, "/library/crosshairs?ids=lib2.2&sbID=8-0"]
   ],
   "descPricing": [],
   "infoDescPointsID": {},

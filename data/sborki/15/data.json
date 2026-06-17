@@ -6,9 +6,9 @@
   ],
   "itemsPricing": [
     ["Кастомный <b>HUD</b>", 1, 1, "#slide-1"],
-    ["<b>1</b> набор звуков оружия", 1, null, "/library?type=weapon-sounds&ids=lib15&sbID=15-0"],
+    ["<b>1</b> набор звуков оружия", 1, null, "/library/weapon-sounds?ids=lib15&sbID=15-0"],
     ["<b>Без</b> эффектов при попадании", 0, null, ""],
-    ["<b>1</b> вариант прицела", 1, null, "/library?type=crosshairs&ids=lib12.7&sbID=15-0"],
+    ["<b>1</b> вариант прицела", 1, null, "/library/crosshairs?ids=lib12.7&sbID=15-0"],
     ["Множество <b>плагинов</b>", 1, 1, "#info-plugins__component-oneas"]
   ],
   "descPricing": [],
