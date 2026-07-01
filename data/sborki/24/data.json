@@ -28,7 +28,7 @@
     ["<b>Библиотека всех</b> звуков оружия", null, 1, "/library/weapon-sounds"],
     ["<b>Библиотека всех</b> эффектов при попадании", null, 1, "/library/hit-effects"],
     ["<b>Библиотека всех</b> прицелов", null, 1, "/library/crosshairs"],
-    ["(Подарок) <b>4</b> вида графики", 2, 2, "#info-graphics__component-oneas"],
+    ["(Подарок) <b>3</b> вида графики", 2, 2, "#info-graphics__component-oneas"],
     ["(Подарок) Множество <b>плагинов</b>", 2, 2, "#info-plugins__component-oneas"]
   ],
   "descPricing": [

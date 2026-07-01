@@ -22,7 +22,7 @@
     ["<b>Библиотека всех</b> эффектов при попадании", null, 1, "/library/hit-effects"],
     ["<b>Библиотека всех</b> прицелов", null, 1, "/library/crosshairs"],
     ["(Подарок) <b>Отсутсвие</b> внешних повреждений авто", 2, 2, "#idp-id19"],
-    ["(Подарок) <b>5</b> видов графики", 2, 2, "#info-graphics__component-oneas"],
+    ["(Подарок) <b>3</b> видов графики", 2, 2, "#info-graphics__component-oneas"],
     ["(Подарок) Множество <b>плагинов</b>", 2, 2, "#info-plugins__component-oneas"]
   ],
   "descPricing": [
@@ -31,7 +31,7 @@
   ],
   "infoDescPointsID": {
     "infoPlugins": [1, 2, 3, 4, 5, 7, 19, 9, 10, 11, 12, 13, 14, 15, 18],
-    "infoGraphics": [27, 28, 29, 32]
+    "infoGraphics": [27, 28, 29]
   },
   "descriptionUrl": "description.html"
 }
